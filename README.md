@@ -26,7 +26,7 @@ pip install -r requirements.txt
 AI_TOKEN=your_AI_token
 TOKEN=your_bot_token
 
-5.Launch the bot:
+5. Launch the bot:
 enter into the console: python main.py
 
 ## Project structure
