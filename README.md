@@ -16,7 +16,7 @@ cd english_bot.
 
 2. Create a virtual environment:
 python -m venv venv
-source venv/bin/activate  # for Linux/Mac
+source venv/bin/activate  # for Linux/Mac, 
 venv\Scripts\activate     # for Windows
 
 3. Install dependencies:
